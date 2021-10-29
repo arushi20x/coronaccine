@@ -1,9 +1,9 @@
 #logo {
-    border-radius: 50%;
+    border-radius: 51%;
 }
 .w-100 {
     width: 100% !important;
-    height: 50vh;
+    height: 52vh;
   }
   #myCanvasContainer {
     position: relative;
@@ -28,7 +28,7 @@ canvas {
 }
 .footer {
     background-color: #B1D4E0;
-    font-size: 15px;
+    font-size: 16px;
     left: 0;
     bottom: 0;
     width: 100%;
